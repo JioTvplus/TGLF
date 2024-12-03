@@ -1,11 +1,12 @@
 [
     {
-        "source": -100190112120,
-        "destinations": [
-            -100181033119,
-            -1001764095661
-        ],
-        "prefix": "",
-        "suffix": ""
+        "source": "-1002299241143",
+        "destinations": ["-1002277080972"],
+        "prefix": /qbleech"
+    },
+    {
+        "source": "-1002308251758",
+        "destinations": ["-1002277080972"],
+        "prefix": "/qbleech"
     }
 ]
